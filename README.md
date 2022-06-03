@@ -1,2 +1,2 @@
 # answerer
-This program gives back wgatever you type
+This program gives back whatever you type it
